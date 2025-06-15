@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 18
+names: ['Acanthastrea', 'Acropora', 'Coeloseris', 'Euphyllia', 'Favia', 'Favites', 'Goniastrea', 'Heterocyathus', 'Isopora', 'Leptoseris', 'Millepora', 'Pachyseris', 'Pocillopora', 'Porites', 'Psammocora', 'Sandalolitha', 'Stylophora', 'Trachyphilia']
