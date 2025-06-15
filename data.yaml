@@ -1,0 +1,6 @@
+train: /content/Yolov6_Modified_Dataset/annotations/instances_train.json
+val: /content/Yolov6_Modified_Dataset/annotations/instances_val.json
+test: /content/Yolov6_Modified_Dataset/annotations/instances_test.json
+nc: 2
+names: ['1', 'pepperonipizza']
+is_coco: True
